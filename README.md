@@ -1,5 +1,3 @@
 # ts-api-project
-cositas nashes
+ejemplo de api restful en typescript
 
-
-ty midu <3
